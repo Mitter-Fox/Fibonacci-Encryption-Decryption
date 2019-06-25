@@ -37,6 +37,6 @@ Decryption operation is the reverse of encryption operation. For e.g. if encrypt
 4. If password matches, reverse the remaining text which will be the original clear text i.e. 'abcd'
 5. If password does not match, then clear text cannot be obtained. See code for more details.
 
-Itook help from 
+I got the necessary information from 
 http://qa.geeksforgeeks.org/1389/qa.geeksforgeeks.org/1389/fibonacci-encryption-and-decryption.html
 > Rohit Mitra
