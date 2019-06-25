@@ -2,7 +2,8 @@
 
 A password encryption algorithm on a pair of source message (plain text) and password, containing lowercase and uppercase letters only, is explained through example as below: 
 
-Source Message is: abcd 
+Source Message is: abcd
+
 Password is: xyz 
 
 # Steps in the Encryption Algorithm 
