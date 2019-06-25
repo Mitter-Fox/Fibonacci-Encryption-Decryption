@@ -36,6 +36,5 @@ Decryption operation is the reverse of encryption operation. For e.g. if encrypt
 3. If L is the password length, 3 in this case, then extract last L characters from ciphertext i.e. dcbaxyz and match it with password provided in input. 
 4. If password matches, reverse the remaining text which will be the original clear text i.e. 'abcd'
 5. If password does not match, then clear text cannot be obtained. See code for more details.
-> fgfgf
-> fgeolel
-> keke
+> Rohit Mitra
+*> http://qa.geeksforgeeks.org/1389/qa.geeksforgeeks.org/1389/fibonacci-encryption-and-decryption.html
