@@ -1,10 +1,14 @@
+# Fibonacci-Encryption-Decryption
+This project uses Fibonacci series technique for encryption and decryption. In this technique one can secure any type of files. This encryption and decryption algorithm is loss-less and key dependent. It can be used to encrypt input files of various sizes and contents.
+
 # Problem : Fibonacci encryption and decryption
 
 A password encryption algorithm on a pair of source message (plain text) and password, containing lowercase and uppercase letters only, is explained through example as below: 
 
-Source Message is: abcd
+Given:
 
-Password is: xyz 
+Source Message is: 'abcd'
+Password is: 'xyz' 
 
 # Steps in the Encryption Algorithm 
 
