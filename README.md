@@ -1,16 +1,16 @@
 # Fibonacci-Encryption-Decryption
 This project uses Fibonacci series technique for encryption and decryption. In this technique one can secure any type of files. This encryption and decryption algorithm is loss-less and key dependent. It can be used to encrypt input files of various sizes and contents.
 
-# Problem : Fibonacci encryption and decryption
+## Problem : Fibonacci encryption and decryption
 
 A password encryption algorithm on a pair of source message (plain text) and password, containing lowercase and uppercase letters only, is explained through example as below: 
 
 Given:
 
-Source Message is: 'abcd'
-Password is: 'xyz' 
-
-# Steps in the Encryption Algorithm 
+```Source Message is: 'abcd'
+Password is: 'xyz'
+```
+### Steps in the Encryption Algorithm 
 
 1. The source message is reversed i.e 'abcd' is written as 'dcba'.
 2. The password is appended i.e the cipher text becomes 'dcbaxyz'.
@@ -24,7 +24,7 @@ Password is: 'xyz'
  * 'hyfwbud' when the current fibonacci term is 2
 7. So, our resultant encrypted string would be 'hyfwbud'.
 
-# Steps in the Decryption Algorithm
+### Steps in the Decryption Algorithm
 
 Decryption operation is the reverse of encryption operation. For e.g. if encrypted text is 'hyfwbud', and password is 'xyz', then the decryption steps are as below:
 
@@ -37,6 +37,5 @@ Decryption operation is the reverse of encryption operation. For e.g. if encrypt
 4. If password matches, reverse the remaining text which will be the original clear text i.e. 'abcd'
 5. If password does not match, then clear text cannot be obtained. See code for more details.
 
-I got the necessary information from 
-http://qa.geeksforgeeks.org/1389/qa.geeksforgeeks.org/1389/fibonacci-encryption-and-decryption.html
+I got the necessary information from [GeeksforGeeks QnA](http://qa.geeksforgeeks.org/1389/qa.geeksforgeeks.org/1389/fibonacci-encryption-and-decryption.html)
 > Rohit Mitra
